@@ -8,12 +8,12 @@ Atualização de informações;
 Cadastro,
 Integração com API utilizando métodos POST.
 # Tecnologias Utilizadas:
-FlutterFlow
-API
-Swagger 
-Render 
-Vs Code
-Github
+FlutterFlow; 
+API; 
+Swagger; 
+Render;
+Vs Code,
+Github.
 # Telas do FlutterFlow:
 ![login](https://github.com/user-attachments/assets/987669ef-6a0f-4ed3-8daf-19f213be7d2d)
 ![cadastro](https://github.com/user-attachments/assets/0dfbc9db-5faf-4ba5-81f0-98c42a36b6e2)
