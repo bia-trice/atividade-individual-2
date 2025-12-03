@@ -7,7 +7,7 @@ Visualização da API;
 Atualização de informações;
 Cadastro,
 Integração com API utilizando métodos POST.
-# Tecnologias Utilizadas:
+# As tecnologias utilizadas:
 FlutterFlow; 
 API; 
 Swagger; 
