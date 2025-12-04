@@ -25,4 +25,7 @@ Github.
 # Link Swagger:
 https://atividade-em-grupo.onrender.com/aula/swagger-ui/index.html
 
+# Link Documentação:
+https://www.canva.com/design/DAG5_qy2PnE/7QA8XLnpnBNsRuAetm-1yA/edit?utm_content=DAG5_qy2PnE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 # Desenvolvedor: Biatrice Fontes
